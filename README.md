@@ -13,6 +13,3 @@
 > `git reset --hard HEAD^` 退回到上个版本
 
 > `git checkout -- [文件名]` 丢弃工作区的修改
-
-> dddd
-
